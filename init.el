@@ -34,7 +34,7 @@
 (require 'setup-magit)
 (require 'setup-cedet)
 (require 'setup-editing)
-
+(require 'setup-python-ide)
 
 
 ;; function-args
